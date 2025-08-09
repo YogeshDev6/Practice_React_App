@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Dependency directories (for yarn)
+.yarn/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS system files
+.DS_Store
+
+# IDE files (for example, VSCode)
+.vscode/
+
+# Environment files (for example, local dev environments)
+.env
+
+# Coverage reports
+coverage/
+
+# Jest test result files
+jest-coverage/
+
+# Next.js files
+.next/
+
+# TypeScript build output (if you're using TypeScript)
+dist/
+
+# npm lock file, if you want to exclude it (optional)
+package-lock.json
+yarn.lock
