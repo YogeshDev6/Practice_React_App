@@ -14,7 +14,7 @@ function App() {
       <Header />
       <Hero />
       <Clients />
-      <Features />
+      <Featuress />
       <Story />
       <Metrics />
       <SiteFooterArticle />
